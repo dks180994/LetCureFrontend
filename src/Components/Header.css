@@ -1,0 +1,10 @@
+.HeaderBody{
+   
+    border: 2px solid black;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 22px;
+    background-color: #ff6d00;
+    box-shadow: 6px 3pt 16pt 0px;
+}
+

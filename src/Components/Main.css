@@ -1,0 +1,13 @@
+/* 
+.MainBody
+{
+    box-shadow: 2px 4pt 10pt 0pt;
+    border-radius: 22px;
+    margin: 15px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+ */

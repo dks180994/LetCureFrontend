@@ -1,0 +1,36 @@
+
+.AfterLoginBlockMain{
+    border-radius: 18px;
+    background-color: #888e96;
+    margin: 20px 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 8px 0px;
+}
+
+.LHSBlock{
+    height: 400px;
+    padding: 40px;
+    margin: 20px;
+    width: 300px;    
+}
+
+.RHSBlock{
+    box-shadow: 3px 4pt 10pt 0px;
+    height: 500px;
+    padding: 20px;
+    margin: 20px;
+    width: 825px;
+    border-radius: 14px;
+    background-color: white;
+}
+
+.Btn-Custom-Size{
+    margin: 10px;
+    width: 200px;
+    height: 66px;
+    box-shadow: 5px 5pt 7pt 0pt    
+}
+

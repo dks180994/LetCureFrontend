@@ -1,0 +1,16 @@
+.RegistrationBody{
+    
+    margin: 50px 250px 50px;
+    padding: 40px 75px 50px;
+    background: #cae9ca;
+    border-radius: 25px;
+    box-shadow: 4px 3pt 15pt 0pt;
+}
+
+.SubmitButtonStyle{
+    margin-right: 20px;
+}
+
+.BackButtonStyle{
+    margin-right: 20px;
+}
